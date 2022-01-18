@@ -2,6 +2,7 @@ html, body, ul {
     margin: 0px;
 }
 
+
 .nav-bar {
     background-color: #100B44;
     position: fixed;
@@ -12,7 +13,10 @@ html, body, ul {
 
 .header {}
 
-.page-title {}
+.page-title {
+    text-align: center;
+    font-variant: small-caps;
+}
 
 .page-content {}
 
