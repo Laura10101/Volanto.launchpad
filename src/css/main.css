@@ -1,3 +1,7 @@
+html, body, ul {
+    margin: 0px;
+}
+
 .nav-bar {
     background-color: #100B44;
 }
@@ -12,5 +16,7 @@
 
 .footer {
     background-color: #100B44;
-
+    color: white;
+    padding: 1em;
+    text-align: center;
 }
