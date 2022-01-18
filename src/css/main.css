@@ -48,16 +48,19 @@ html, body, ul {
   }
 
   @media screen and (max-width: 600px) {
-    .nav-menu.responsive {position: relative;}
-    .nav-menu.responsive .nav-icon {
+    .nav-menu.responsive { 
+        color: white;
+        position: relative;
+    }
+    .nav-menu.responsive > .nav-icon {
       position: absolute;
       right: 0;
       top: 0;
     }
-    .nav-menu.responsive .nav-item > a {
-      float: none;
-      display: block;
-      text-align: left;
+    .nav-item.responsive {
+        float: none;
+        display: block;
+        text-align: left;
     }
   }
 
