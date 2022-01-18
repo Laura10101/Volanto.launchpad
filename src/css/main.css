@@ -1,8 +1,8 @@
 html, body, ul {
     margin: 0px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+ 
 }
-
 
 .nav-bar {
     background-color: #100B44;
@@ -28,4 +28,11 @@ html, body, ul {
     color: white;
     padding: 1em;
     text-align: center;
+}
+
+.social {
+    color: white;
+    font-size: 32pt;
+    margin-left: 12px;
+    margin-right: 12px;
 }
