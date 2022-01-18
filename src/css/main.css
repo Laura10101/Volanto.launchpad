@@ -10,7 +10,20 @@ html, body, ul {
     width: 100%;
 }
 
-.nav-menu {}
+.nav-menu {
+    color: white;
+}
+
+.nav-item > a:link, .nav-item > a:visited, .nav-item > a:active {
+    color: white;
+    text-decoration: none;
+}
+
+.nav-item > a:hover {
+    color: #ff96ad;
+    /* Taken from W3 Schools - How to Create a Glowing Text: https://www.w3schools.com/howto/howto_css_glowing_text.asp */
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+}
 
 .header {}
 
