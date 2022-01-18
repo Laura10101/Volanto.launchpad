@@ -14,16 +14,38 @@ html, body, ul {
     color: white;
 }
 
-.nav-item > a:link, .nav-item > a:visited, .nav-item > a:active {
+.nav-item {
+    float: left;
+    display: block;
+    padding: 15px;
+
+}
+
+.nav-icon {
+    display: none;
+    font-size: 20pt;
+    padding: 15px;
+
+}
+
+.nav-item > a:link, .nav-item > a:visited, .nav-item > a:active, .nav-icon > a:link, .nav-icon > a:visited, .nav-icon > a:active {
     color: white;
     text-decoration: none;
 }
 
-.nav-item > a:hover {
+.nav-item > a:hover, .nav-icon > a:hover {
     color: #ff96ad;
     /* Taken from W3 Schools - How to Create a Glowing Text: https://www.w3schools.com/howto/howto_css_glowing_text.asp */
     text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
 }
+
+@media screen and (max-width: 600px) {
+    .nav-item {display: none;}
+    .nav-icon {
+      float: right;
+      display: block;
+    }
+  }
 
 .header {}
 
