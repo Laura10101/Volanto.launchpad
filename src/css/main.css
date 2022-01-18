@@ -1,4 +1,6 @@
-.nav-bar {}
+.nav-bar {
+    background-color: #100B44;
+}
 
 .nav-menu {}
 
@@ -8,4 +10,7 @@
 
 .page-content {}
 
-.footer {}
+.footer {
+    background-color: #100B44;
+
+}
