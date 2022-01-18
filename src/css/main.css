@@ -19,7 +19,9 @@ html, body, ul {
     font-variant: small-caps;
 }
 
-.page-content {}
+.page-content {
+    padding: 1em;
+}
 
 .footer {
     background-color: #100B44;
