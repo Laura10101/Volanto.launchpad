@@ -4,6 +4,8 @@ html, body, ul {
 
 .nav-bar {
     background-color: #100B44;
+    position: fixed;
+    width: 100%;
 }
 
 .nav-menu {}
