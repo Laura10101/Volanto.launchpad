@@ -1,8 +1,13 @@
 html, body, ul {
-    margin: 0px;
+    margin: 0;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
  
 }
+
+html, body {
+    height: 100%;
+}
+
 /*create type selected rules for forms*/
 
 .form-section {
@@ -116,6 +121,10 @@ input[type=submit]:hover {
     padding-top: 50px;
 }
 
+.page-container {
+    min-height: 100%;
+}
+
 .page-title {
     text-align: center;
     font-variant: small-caps;
@@ -123,7 +132,7 @@ input[type=submit]:hover {
 
 .page-content {
     padding: 1em;
-    padding-bottom: 50px;
+    padding-bottom: 142px;
 }
 
 .footer {
@@ -131,6 +140,8 @@ input[type=submit]:hover {
     color: white;
     padding: 1em;
     text-align: center;
+    height: 110px;
+    margin-top: -142px;
 }
 
 .social {
