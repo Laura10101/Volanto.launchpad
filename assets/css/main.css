@@ -155,3 +155,6 @@ input[type=submit]:hover {
     margin-right: 12px;
 }
 
+.fa-quote-left, .fa-quote-right {
+    font-size: 150%;
+}
