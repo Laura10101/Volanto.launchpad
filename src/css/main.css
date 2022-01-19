@@ -8,6 +8,7 @@ html, body, ul {
     background-color: #100B44;
     position: fixed;
     width: 100%;
+    min-height: 50px;
 }
 
 .nav-menu {
@@ -23,8 +24,8 @@ html, body, ul {
 
 .nav-icon {
     display: none;
-    font-size: 20pt;
-    padding: 15px;
+    font-size: 17pt;
+    padding: 10px;
 
 }
 
@@ -64,7 +65,9 @@ html, body, ul {
     }
   }
 
-.header {}
+.header {
+    padding-top: 50px;
+}
 
 .page-title {
     text-align: center;
