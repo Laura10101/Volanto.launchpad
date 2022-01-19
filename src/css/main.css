@@ -3,6 +3,19 @@ html, body, ul {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
  
 }
+/*create type selected rules for forms*/
+
+label {
+
+}
+
+input[type=text], input[type=email], textarea {
+
+}
+
+input[type=submit] {
+    
+}
 
 .nav-bar {
     background-color: #100B44;
