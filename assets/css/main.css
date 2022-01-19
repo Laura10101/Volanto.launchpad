@@ -121,6 +121,10 @@ input[type=submit]:hover {
     padding-top: 50px;
 }
 
+.header-image {
+    width: 100%;
+}
+
 .page-container {
     min-height: 100%;
 }
