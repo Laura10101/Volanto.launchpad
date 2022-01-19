@@ -1,6 +1,7 @@
 //Modified from W3 School's Responsive Topnav Example: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_topnav
 function toggleNavMenu() {
     var menu = document.getElementById("nav-menu");
+    //this javascript function displays a drop down menu when the nav bar icon is clicked on.
     if (menu.className === "nav-menu") {
       menu.className += " responsive";
 
