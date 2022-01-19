@@ -5,6 +5,15 @@ html, body, ul {
 }
 /*create type selected rules for forms*/
 
+.form-section {
+    width: 100%;
+}
+
+.form-container {
+    width: 33%;
+    margin: 0 auto;
+}
+
 label {
 
 }
@@ -13,6 +22,15 @@ input, textarea {
     border-style: solid;
     border-width: 1px;
     border-radius: 4px;
+    width: 100%;
+}
+
+/* set form size on smaller devices*/
+
+@media screen and (max-width: 600px) {
+    .form-container {
+        width: 80%;
+    }
 }
 
 input[type=text], input[type=email], textarea {
@@ -25,7 +43,6 @@ input[type=submit] {
     text-transform: uppercase;
     font-weight: bold;
     font-size: 12pt;
-    border
 }
 
 input[type=submit]:hover {
