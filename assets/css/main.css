@@ -182,16 +182,38 @@ input[type=submit]:hover {
 }
 
 .features {
-    display: block;
     text-align: center;
+    margin: 0 auto;
 }
 
 .feature {
     display: inline-block;
+    font-size: 20pt;
+    width: 150px;
+    text-align: center;
     margin-left: 10%;
     margin-right: 10%;
 }
 
 @media screen and (max-width: 910px) {
-    .feature { display: block; }
+    .feature {
+        display: block;
+        margin: 0 auto;
+    }
+}
+
+.fa-galactic-republic, .fa-compass, .fa-check-circle {
+    font-size: 70pt;
+}
+
+.fa-galactic-republic {
+
+}
+
+.fa-compass {
+
+}
+
+.fa-check-circle {
+
 }
