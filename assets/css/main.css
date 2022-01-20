@@ -207,13 +207,42 @@ input[type=submit]:hover {
 }
 
 .fa-galactic-republic {
-    color: #b414f3;;
+    color: #b414f3;
+}
+
+.fa-galactic-republic:hover {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #b414f3, 0 0 40px #b414f3, 0 0 50px #b414f3, 0 0 60px #b414f3, 0 0 70px #b414f3;
 }
 
 .fa-compass {
     color: #39c21a;
 }
 
+.fa-compass:hover {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #39c21a, 0 0 40px #39c21a, 0 0 50px #39c21a, 0 0 60px #39c21a, 0 0 70px #39c21a;
+}
+
 .fa-check-circle {
+    color: #e60073;
+}
+
+.fa-check-circle:hover {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+}
+
+.feature-link:link, .feature-link:visited, .feature-link:active {
+    color: black;
+    text-decoration: none;
+}
+
+.feature-discover:hover {
+    color: #b414f3;
+}
+
+.feature-explore:hover {
+    color: #39c21a;
+}
+
+.feature-apply:hover {
     color: #e60073;
 }
