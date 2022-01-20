@@ -158,3 +158,20 @@ input[type=submit]:hover {
 .fa-quote-left, .fa-quote-right {
     font-size: 150%;
 }
+
+.testimonial {
+    vertical-align: middle;
+    display: flex;
+    align-items: center;
+}
+
+.testimonial-portrait {
+    border-radius: 5px;
+    width: 400px;
+    margin-right: 15px;
+    width: 33%;
+}
+
+.testimonial-text {
+    width: 33%;
+}
