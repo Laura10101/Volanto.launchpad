@@ -158,13 +158,14 @@ input[type=submit]:hover {
 }
 
 .fa-quote-left, .fa-quote-right {
-    font-size: 150%;
+    font-size: 100%;
 }
 
 .testimonial {
     vertical-align: middle;
     display: flex;
     align-items: center;
+    margin-bottom: 30px;
 }
 
 .testimonial-portrait {
@@ -175,6 +176,24 @@ input[type=submit]:hover {
 
 .testimonial-text {
     width: 66%;
+}
+
+@media screen and (max-width: 780px) {
+    .testimonial {
+        display:block;
+        width: 100%;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .testimonial-text {
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
 }
 
 .feature-container {
