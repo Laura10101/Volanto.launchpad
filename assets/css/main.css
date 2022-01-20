@@ -25,8 +25,15 @@ html, body {
     margin: 0 auto;
 }
 
-label {
+/* set form size on smaller devices*/
+@media screen and (max-width: 1050px) {
+    .form-container {
+        width: 80%;
+    }
+}
 
+label {
+    font-size: 14pt;
 }
 
 input, textarea {
@@ -36,30 +43,40 @@ input, textarea {
     width: 100%;
 }
 
-/* set form size on smaller devices*/
-
-@media screen and (max-width: 600px) {
-    .form-container {
-        width: 80%;
-    }
+input[type=text], input[type=email] {
+    height: 25px;
 }
 
 input[type=text], input[type=email], textarea {
-
+    margin-bottom: 10px;
+    border-color:#100B44; 
 }
 
+input[type=text]:hover, input[type=email]:hover, textarea:hover {
+    border-color:#e60073;
+    border-width: 2px;
+}
+
+input[type=text]:focus, input[type=email]:focus, textarea:focus {
+    border-color:#b414f3;
+    border-width: 3px;
+    outline: none;
+}
+
+
 input[type=submit] {
-    height: 30px;
-    width: 90px;
+    height: 40px;
+    width: 130px;
     text-transform: uppercase;
     font-weight: bold;
-    font-size: 12pt;
+    font-size: 16pt;
+    background-color: #e60073;
+    color: white;
 }
 
 input[type=submit]:hover {
-    background:#ff96ad;
-    box-shadow: 0 0 5px #ff96ad, 0 0 25px #ff96ad, 0 0 50px #ff96ad, 0 0 200px #ff96ad;
-
+    background:#e60073;
+    box-shadow: 0 0 1px #e60073, 0 0 5px #e60073, 0 0 10px #e60073, 0 0 40px #e60073;
 }
 
 .nav-bar {
@@ -104,9 +121,7 @@ input[type=submit]:hover {
       float: right;
       display: block;
     }
-}
 
-@media screen and (max-width: 600px) {
     .nav-menu.responsive { 
         color: white;
         position: relative;
@@ -122,6 +137,7 @@ input[type=submit]:hover {
         text-align: left;
     }
 }
+
 
 .header {
     padding-top: 50px;
