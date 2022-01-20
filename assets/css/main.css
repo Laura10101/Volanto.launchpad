@@ -169,11 +169,10 @@ input[type=submit]:hover {
 
 .testimonial-portrait {
     border-radius: 5px;
-    width: 400px;
+    width: 300px;
     margin-right: 15px;
-    width: 33%;
 }
 
 .testimonial-text {
-    width: 33%;
+    width: 66%;
 }
