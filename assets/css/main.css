@@ -141,7 +141,7 @@ input[type=submit]:hover {
 }
 
 .page-content {
-    padding: 1em;
+    padding: 0;
     padding-bottom: 167px;
 }
 
@@ -159,6 +159,45 @@ input[type=submit]:hover {
     font-size: 32pt;
     margin-left: 12px;
     margin-right: 12px;
+}
+
+.programme-section {
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    padding: 50px;
+}
+
+.programme-who {
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    background-color: white;
+    color: #100B44;
+}
+
+.programme-purpose {
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    background-color: #100B44;
+    color: white;
+}
+
+.programme-expectations {
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    background-color: white;
+    color: #100B44;
+}
+
+.programme-eligibility {
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    background-color: #100B44;
+    color: white;
 }
 
 .fa-quote-left, .fa-quote-right {
