@@ -32,38 +32,76 @@ The application form is the call to action and must be easy to find and use.
 
 ###First time visitor goals
 
-As a First Time Visitor, I want to easily understand the main purpose of the site, learn more about the programme, its goals and how to apply.
-As a First Time Visitor, I want to be able to easily navigate throughout the site to find content and apply easily.
-As a First Time Visitor, I want to understand what other people have gained from their experiences on the programme, by looking at testimonials of previous candidates. 
-As a First Time Visitor, I want to look at the company’s social media presence to understand how well established and trusted they are. 
+- As a First Time Visitor, I want to easily understand the main purpose of the site, learn more about the programme, its goals and how to apply.
+- As a First Time Visitor, I want to be able to easily navigate throughout the site to find content and apply easily.
+- As a First Time Visitor, I want to understand what other people have gained from their experiences on the programme, by looking at testimonials of previous candidates. 
+- As a First Time Visitor, I want to look at the company’s social media presence to understand how well established and trusted they are. 
 
 ### Returning Visitor Goals
 
-As a Returning Visitor, I want to find information about coding challenges.
-As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
-As a Returning Visitor, I want to find community links.
+- As a Returning Visitor, I want to find information about coding challenges.
+- As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
+- As a Returning Visitor, I want to find community links.
 
 ### Frequent User Goals
 
-As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
-As a Frequent User, I want to check to see if there are any new blog posts.
-As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
+- As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
+- As a Frequent User, I want to check to see if there are any new blog posts.
+- As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
 
 ## UX
 
-Briefly explain your design here
+### Colour Scheme
 
-## Colour Scheme
+The colour scheme was chosen to reflect the brand values of Volanto and the Launchpad Programme. Modern, futuristic, and unusual. Reminiscent of the neon lights of Tokyo and the film Bladerunner: worlds where technology reign.
 
-The colour scheme will be……TBC! Likely violet, pink and navy. Neon. These colours have been designed to be reminiscent of a tech future: inspiration has been drawn from the neon lights of Tokyo and ‘Do Androids Dream of Electric Sheep?’ - a world where technology reigns.
+The Launchpad Programme is about closing the tech skills gap, and one of its aims is to encourage more people from under represented groups into technology. Women are a hugely under represented group, so it was important that the site appealed to a ...
 
-The colours have also been designed to ensure that they are not sterotupically masculine. The pink and lilac, used in a neon fashion, are designed to appeal to both men and women, rather than cementing the tech gender gap further.
+I selected the following colours: 
+- Navy blue: #100B44
+- Violet: #e60073
+- Vivid pink: #b414f3
+- Green: #39c21a
 
-## Typography
+The colour pallette is shown below:
 
-The fonts used will be…………………..
+![Volanto Launchpad Colour Palette](https://laura10101.github.io/volanto-launchpad/documentation/design/colour-palette.JPG)
 
-## Wireframes
+I also used a glow function when hovering over buttons to tie in with the neon theme.
+
+### Typography
+
+The font used is Nunito: Helvetica: Sans-serif.  Nunito was imported frmo Google fonts. 
+
+Nunito was chosen because it is easy to read but also has a modern feel, which sits well with the brand guidelines.
+
+### Imagery
+Images are designed to reflect the theme of a future reigned by tech. They are bold, vivid, full of energy. 
+
+The header image was created by me, in Canva. The testimonial portrait images were taken from the Snappa image library. 
+
+### Wireframes
+To design my site I hand-sketched a set of low-fidelity wireframes. This was to assist me in planning the content and layout of elements on the page.
+
+The wireframe for the home page is shown below:
+
+![Home Page Wireframe](https://laura10101.github.io/volanto-launchpad/documentation/wireframes/index.jpg)
+
+The wireframe for the programme page is shown below:
+
+![Programme Page Wireframe](https://laura10101.github.io/volanto-launchpad/documentation/wireframes/programme.jpg)
+
+The wireframe for the application page is shown below:
+
+![Application Page Wireframe](https://laura10101.github.io/volanto-launchpad/documentation/wireframes/apply.jpg)
+
+The wireframe for the testimonials page is shown below:
+
+![Home Page Wireframe](https://laura10101.github.io/volanto-launchpad/documentation/wireframes/testimonials.jpg)
+
+The wireframe for the contact page is shown below:
+
+![Contact Page Wireframe](https://laura10101.github.io/volanto-launchpad/documentation/wireframes/contact.jpg)
 
 ## Features
 
@@ -125,7 +163,18 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ### Features Left to Implement
 
-- Another feature idea
+In the future, the following additional features would add value to the site for potential applicants:
+
+- Design a custom logo and add it to the nav bar
+- Provide a gallery of testimonial videos
+- A blog that would include articles about how to get into tech, information about the latest technology, and tech courses 
+- Tech quizzes allowing people to test their knowledge
+- A forum for people to ask questions and get peer support 
+- An online chat service to allow potential applicants to ask questions more easily
+
+## Testing 
+
+For all testing, please refer to the [TESTING.md](TESTING.md) file.
 
 ## Deployment
 
@@ -145,10 +194,6 @@ In order to make a local copy of this project, you can clone it. In your IDE Ter
 Alternatively, if using Gitpod, you can click below to create your own workspace using this repository.
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Laura10101/volanto-launchpad)
-
-## Testing 
-
-For all testing, please refer to the [TESTING.md](TESTING.md) file.
 
 ## Credits
 
