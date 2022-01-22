@@ -177,10 +177,18 @@ On mobile:
 
 - __Programme page__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  - This page will allow users to understand the purpose of the Volanto Launchpad, who it is for (and therefore whether it will be suitable for them), and what they will need to do if they successfully apply.
+  - It is laid out so that the text alignment is justify, but the text is centered in the middle of the screen.
+  - On large devices, the content takes up just 50% of the screen to reduce the distance that the readers' eyes have to travel across the screen.
+  - On mobile devices, this increases to 66% of the screen to account for a smaller device.
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+On desktop:
+
+![Programme Page on Desktop](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/programme-desktop.JPG)
+
+On mobile:
+
+![Programme Page on Mobile](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/programme-mobile.png)
 
 - __Application Form__
 
