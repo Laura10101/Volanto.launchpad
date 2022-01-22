@@ -109,28 +109,43 @@ In this section, you should go over the different parts of your project, and des
 
 ### Existing Features
 
-- __Navigation Bar__
+- __Responsive Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  - All pages on the Volanto Launchpad site feature a responsive navigation bar which provides links to the Home, Programme, Application, Testimonial, and Contact pages.
+  - The navigation bar displays in full width at all times.
+  - When the site is viewed on a large device (desktop or laptop), the navigation links are displayed horizontally across the navigation bar.
+  - When the site is viewed on a smaller device (mobile or tablet), the navigation links are displayed in an expandable/colapsible hamburger menu.
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+On desktop:
+![Nav Bar - Desktop](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/nav-desktop.JPG)
 
-- __The landing page image__
+On mobile (expanded):
+![Nav Bar - Expanded on Mobile](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/nav-mobile-expanded.PNG)
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+On mobile (collapsed):
+![Nav Bar - Collapsed on Mobile](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/nav-mobile-collapsed.PNG)
 
+- __Header Image__
+
+  - The Header, which is displayed on all pages, includes a large image consisting of a diagonal ombre gradient in Volanto's brand colours. The word "Soar" is displayed in large text on top of the image. 
+  - This feature provides a bright and uplifting image that is intended to inspire visitors to the site to take positive action to achieve their career goals.
+  - It is also designed to evoke images of a technology-driven future.
+
+On desktop:
 ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
-- __Club Ethos Section__
+On mobile:
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+- __Highlighted Features on Home Page__
 
+  - Blah
+
+On desktop:
 ![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
-- __Meetup Times section__
+On mobile:
+
+- __Programme page__
 
   - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
   - This section will be updated as these times change to keep the user up to date. 
@@ -144,14 +159,34 @@ In this section, you should go over the different parts of your project, and des
 
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
 
-- __Gallery__
+- __Application Form__
 
   - The gallery will provide the user with supporting images to see what the meet ups look like. 
   - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
 
 ![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
-- __The Sign Up Page__
+- __Testimonials Page__
+
+  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+
+![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+
+For some/all of your features, you may choose to reference the specific project files that implement them.
+
+In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+
+- __Contact Form__
+
+  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+
+![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+
+For some/all of your features, you may choose to reference the specific project files that implement them.
+
+In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+
+- __Submission confirmation pages__
 
   - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
 
