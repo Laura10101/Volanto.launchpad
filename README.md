@@ -30,24 +30,19 @@ The application form is the call to action and must be easy to find and use.
 
 ## User Stories
 
-### First time visitor goals
+### Potential Applicant Goals
 
-- As a First Time Visitor, I want to easily understand the main purpose of the site, learn more about the programme, its goals and how to apply.
-- As a First Time Visitor, I want to be able to easily navigate throughout the site to find content and apply easily.
-- As a First Time Visitor, I want to understand what other people have gained from their experiences on the programme, by looking at testimonials of previous candidates. 
-- As a First Time Visitor, I want to look at the company’s social media presence to understand how well established and trusted they are. 
+- As a potential Launchpad applicant, I want to understand more about the Volanto Launchpad programme, so that I can understand how it might help me
+- As a potential Launchpad applicant, I want to understand what benefit previous mentees have gained from the programme, so that I can decide whether or not to apply
+- As a potential Launchpad applicant, I need to be able to contact Volanto, so that I can get answers if I have any further questions
+- As a potential Launchpad applicant, I need to be able to easily navigate the site, so that I can quickly decide whether to apply
+- As a potential Launchpad applicant, I need to be able to apply to the Launchpad scheme, if I wish to proceed
 
-### Returning Visitor Goals
+### Existing Client Goals
 
-- As a Returning Visitor, I want to find information about coding challenges.
-- As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
-- As a Returning Visitor, I want to find community links.
-
-### Frequent User Goals
-
-- As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
-- As a Frequent User, I want to check to see if there are any new blog posts.
-- As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
+- As an existing Volanto client, I need to be able to gain a more indepth understanding of the Launchpad programme, so that I can better understand Volanto's brand values
+- As an existing Volanto client, I need to be able to understand how Volanto has helped people in the past, so that I can better understand the impact Volanto is having
+- As an existing Volanto client, I need to be able to contact the Launchpad team, so that I can follow up with any further questions
 
 ## UX
 
