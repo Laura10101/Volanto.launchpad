@@ -53,13 +53,25 @@ On Firefox:
 ![Testimonials Correctly Displays in Firefox](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/browser-testing/testimonials-firefox-large.png)
 
 ### Contact Form
+- While testing the Contact form across browsers, a bug was found in Firefox.
+- As shown below, the Submit button on the contact form reads "Submit Query" and so the text does not appropriately fit into the button.
+- This was resolved by setting the value attribute on the button, after which all browsers displayed the contact form correctly.
 
 On Microsoft Edge:
 
+![Contact Form Correctly Displays in Edge](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/browser-testing/contact-edge-large.png)
+
 On Chrome:
 
-On Firefox:
+![Contact Form Correctly Displays in Edge](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/browser-testing/contact-chrome-large.png)
 
+On Firefox (Bug found):
+
+![Contact Form Correctly Displays in Edge](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/browser-testing/contact-ff-large-error.png)
+
+On Firefox (Bug resolved):
+
+![Contact Form Correctly Displays in Edge](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/browser-testing/contact-firefox-large.png)
 
 ## Code Validation
 
