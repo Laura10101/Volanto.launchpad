@@ -197,7 +197,17 @@ On Mobile:
 
 The following bugs were fixed during the development process:
 
-- 
+- Validation error on home page whereby `<p>` elements were used as child of `<a>` elements. The resolution was to use `<span>` as the child element instead.
+- Validation error testimonials page whereby a testimonial `<figure>` element had a duplicate `class` attribute. The duplicate attribute was removed.
+- A `</p>` tag was found without a corresponding `<p>` tag. This was due to a `<ul>` element within the paragraph. The resolution was to close the paragraph just before the unordered list, and to open a new paragraph immediately after.
+- The "Submit" button on the forms were labelled as "Submit Query" when viewed in Firefox, which meant the text overflowed the button. The `value` attribute was explicitly set on all submit buttons.
+- The `id` attribute on textareas in the application form did not match the label. The naming was updated to be consistent with the label.
+- During testing, it was identified that the fields on the application and contact forms were not set to required. This was corrected.
+- Early responsiveness testing found that highlighted features on the home page were not centered in small screen sizes. The corresponding CSS class was updated to set margins to `0 auto`.
+- On inital deployment of the site to GitHub Pages, the site could not be accessed through the expected URL. This was due to the site having been created in an src folder rather than in the root of the repository. The site was moved back up to root level.
+- During initial testing, the footer was not sticking properly to the bottom of the page. An updated solution was taken from the CSS Tricks "Sticky Footer, Five Ways" tutorial.
+- During initial testing, the nav bar overlapped the header image. Additional padding was added to the header image to address this.
+- The Responsive TopNav code did not initially work when added to the page as the original code operated directly on the `<a>` tags, whereas the nav bar for the Launchpad site is implemented using `<ul>` tags. The JavaScript was therefore updated accordingly.
 
 ### Unfixed Bugs
 
