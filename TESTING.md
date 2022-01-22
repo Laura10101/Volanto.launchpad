@@ -77,11 +77,61 @@ On Firefox (Bug resolved):
 
 ### HTML Validation
 
-Blah
+Several validation errors were identified during the development process, specifically:
+
+- `<p>` elements were used as the child of `<a>` elements on the home page.
+- A duplicate `class` attribute was used on one testimonial `<figure>` element on the testimonials.html page.
+- A `</p>` tag was found without a corresponding `<p>` tag. This was due to a `<ul>` being contained within the paragraph.
+
+One warning was also found: the `<section>` containing the highlighted features on index.html contains no `<h2>-<h6>` tag. I opted to leave this unresolved as this was appropriate for the particular page.
+
+All other validation errors were resolved. I attempted to revalidate all pages following these changes. However, the W3C's validation service was down throughout the 22nd January 2022 so I was unable to confirm resolution through this service (see below).
+
+![The official W3C validator was down throughout 22nd January 2022](https://laura10101.github.io/volanto-launchpad/documentation/validation/official-validator-outage.png)
+
+I therefore used an alternative validation service to check my HTML as shown below.
+
+index.html:
+
+![Alternative validation service for index.html](https://laura10101.github.io/volanto-launchpad/documentation/validation/index-validation.png)
+
+programme.html:
+
+![Alternative validation service for programme.html](https://laura10101.github.io/volanto-launchpad/documentation/validation/programme-validation.png)
+
+apply.html:
+
+![Alternative validation service for apply.html](https://laura10101.github.io/volanto-launchpad/documentation/validation/apply-validation.png)
+
+application-confirmation.html:
+
+![Alternative validation service for application-confirmation.html](https://laura10101.github.io/volanto-launchpad/documentation/validation/application-confirmation-validation.png)
+
+testimonials.html:
+
+![Alternative validation service for testimonials.html](https://laura10101.github.io/volanto-launchpad/documentation/validation/testimonials-validation.png)
+
+contact.html:
+
+![Alternative validation service for contact.html](https://laura10101.github.io/volanto-launchpad/documentation/validation/contact-validation.png)
+
+contact-confirmation.html:
+
+![Alternative validation service for contact-confirmation.html](https://laura10101.github.io/volanto-launchpad/documentation/validation/contact-confirmation-validation.png)
+
+Links to the official W3C validator for each page on the site are shown below:
+
+- [index.html](https://validator.w3.org/nu/?doc=https://laura10101.github.io/volanto-launchpad/index.html)
+- [programme.html](https://validator.w3.org/nu/?doc=https://laura10101.github.io/volanto-launchpad/programme.html)
+- [apply.html](https://validator.w3.org/nu/?doc=https://laura10101.github.io/volanto-launchpad/apply.html)
+- [application-confirmation.html](https://validator.w3.org/nu/?doc=https://laura10101.github.io/volanto-launchpad/application-confirmation.html)
+- [testimonials.html](https://validator.w3.org/nu/?doc=https://laura10101.github.io/volanto-launchpad/testimonials.html)
+- [contact.html](https://validator.w3.org/nu/?doc=https://laura10101.github.io/volanto-launchpad/contact.html)
+- [contact-confirmation.html](https://validator.w3.org/nu/?doc=https://laura10101.github.io/volanto-launchpad/contact-confirmation.html)
 
 ### CSS Validation
 
-The site's CSS was validated through the W3C's jigsaw validator and no errors were found.
+The CSS was validated through the W3C's jigsaw validator and no errors were found.
 
 ![CSS Validation Passed](https://laura10101.github.io/volanto-launchpad/documentation/validation/css-validation.png)
 
@@ -89,36 +139,55 @@ The site's CSS was validated through the W3C's jigsaw validator and no errors we
 
 ### Navigation
 
+- The navigation was tested on both desktop and mobile devices and worked as expected.
+
 On Desktop:
 
+![Navigation bar on a desktop](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/nav-desktop.JPG)
 
-On Mobile:
+On Mobile (Expanded):
 
+![Navigation bar when expanded on mobile devices](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/nav-mobile-expanded.PNG)
+
+On Mobile (Collapsed):
+
+![Navigation bar when collapsed on mobile devices](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/nav-mobile-collapsed.PNG)
 
 
 ### Highlighted Features
 
+- The highlighted features were tested on both mobile and desktop devices and worked as expected.
+
 On Desktop:
 
+![Highlighted features on home page on desktop device](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/ctas-desktop.JPG)
 
 On Mobile:
 
+![Highlighted features on home page on mobile device](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/ctas-mobile.png)
 
 ### Testimonials
 
+- The testimonials were tested on both mobile and desktop devices and displayed as expected on each device.
+
 On Desktop:
 
+![Testimonials on desktop device](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/testimonials-desktop.JPG)
 
 On Mobile:
 
+![Testimonials on mobile device](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/testimonials-mobile.png)
 
 ### Contact Form
+- The contact form was also tested on both mobile and desktop devices and worked as expected.
 
 On Desktop:
 
+![Contact form on desktop device](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/contact-desktop.JPG)
 
 On Mobile:
 
+![Contact form on mobile device](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/contact-mobile.png)
 
 ## User Story Tests
 
@@ -132,6 +201,6 @@ The following bugs were fixed during the development process:
 
 ### Unfixed Bugs
 
-The current bugs have not yet been fixed:
+I opted not to resolve the following bug:
 
-- The index.html page contains a validation error: "Section lacks header for h2-h6"
+- The index.html page contains a validation error: "Section lacks header for h2-h6".
