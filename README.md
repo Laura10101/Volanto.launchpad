@@ -222,13 +222,17 @@ On mobile:
 
 - __Contact Form__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - Some potential applicants, or clients who want to know more about Volanto's corporate culture, may need to contact us with queries or feedback.
+  - The site therefore provides a standard Contact form.
+  - All fields on the form are required so that Volanto is clear about who has contacted us and for what purpose, and to allow us the Volanto team to respond.
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+On desktop:
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
+![Contact Form on Desktop](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/contact-desktop.JPG)
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+On mobile:
+
+![Contact Form on Mobile](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/contact-mobile.png)
 
 - __Submission confirmation pages__
 
