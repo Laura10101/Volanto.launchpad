@@ -1,9 +1,10 @@
+/* Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
 
+/* General styles */
 html, body, ul {
     margin: 0;
     font-family: 'Nunito', Helvetica, sans-serif;
- 
 }
 
 html, body {
@@ -14,8 +15,23 @@ html, body {
     background-color: #100B44;
 }
 
-/*create type selected rules for forms*/
+/* Page containers */
+.page-container {
+    min-height: 100%;
+}
 
+.page-title {
+    text-align: center;
+    font-variant: small-caps;
+}
+
+.page-content {
+    padding: 0;
+    padding-bottom: 167px;
+    width: 100%;
+}
+
+/* Form containers */
 .form-section {
     width: 100%;
 }
@@ -25,13 +41,14 @@ html, body {
     margin: 0 auto;
 }
 
-/* set form size on smaller devices*/
+/* Media query for form containers */
 @media screen and (max-width: 1050px) {
     .form-container {
         width: 80%;
     }
 }
 
+/* Forms */
 label {
     font-size: 14pt;
 }
@@ -63,7 +80,6 @@ input[type=text]:focus, input[type=email]:focus, textarea:focus {
     outline: none;
 }
 
-
 input[type=submit] {
     height: 40px;
     width: 130px;
@@ -79,6 +95,7 @@ input[type=submit]:hover {
     box-shadow: 0 0 1px #e60073, 0 0 5px #e60073, 0 0 10px #e60073, 0 0 40px #e60073;
 }
 
+/* Navigation */
 .nav-bar {
     background-color: #100B44;
     position: fixed;
@@ -88,20 +105,6 @@ input[type=submit]:hover {
 
 .nav-menu {
     color: white;
-}
-
-.nav-item {
-    float: left;
-    display: block;
-    padding: 15px;
-
-}
-
-.nav-icon {
-    display: none;
-    font-size: 17pt;
-    padding: 10px;
-
 }
 
 .nav-item > a:link, .nav-item > a:visited, .nav-item > a:active, .nav-icon > a:link, .nav-icon > a:visited, .nav-icon > a:active {
@@ -115,6 +118,20 @@ input[type=submit]:hover {
     text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
 }
 
+/* Adapted from W3 Schools Top Nav example: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_topnav */
+.nav-item {
+    float: left;
+    display: block;
+    padding: 15px;
+}
+
+.nav-icon {
+    display: none;
+    font-size: 17pt;
+    padding: 10px;
+}
+
+/* Media query for navigation */
 @media screen and (max-width: 600px) {
     .nav-item {display: none;}
     .nav-icon {
@@ -138,6 +155,7 @@ input[type=submit]:hover {
     }
 }
 
+/* Header */
 
 .header {
     padding-top: 50px;
@@ -147,21 +165,7 @@ input[type=submit]:hover {
     width: 100%;
 }
 
-.page-container {
-    min-height: 100%;
-}
-
-.page-title {
-    text-align: center;
-    font-variant: small-caps;
-}
-
-.page-content {
-    padding: 0;
-    padding-bottom: 167px;
-    width: 100%;
-}
-
+/* Footer */
 .footer {
     background-color: #100B44;
     color: white;
@@ -178,6 +182,7 @@ input[type=submit]:hover {
     margin-right: 12px;
 }
 
+/* Page content containers */
 .content-section {
     display: block;
     margin-left: auto;
@@ -187,6 +192,7 @@ input[type=submit]:hover {
     text-align: justify;
 }
 
+/* Media query for content section */
 @media screen and (max-width: 1050px) {
     .content-section {
         width: 66%;
@@ -197,10 +203,7 @@ input[type=submit]:hover {
     text-align: center;
 }
 
-.fa-quote-left, .fa-quote-right {
-    font-size: 100%;
-}
-
+/* Testimonials */
 .testimonial {
     vertical-align: middle;
     display: flex;
@@ -218,6 +221,7 @@ input[type=submit]:hover {
     width: 66%;
 }
 
+/* Media query for testimonial */
 @media screen and (max-width: 780px) {
     .testimonial {
         display:block;
@@ -236,6 +240,11 @@ input[type=submit]:hover {
     }
 }
 
+.fa-quote-left, .fa-quote-right {
+    font-size: 100%;
+}
+
+/* Highlighted features on home page */
 .feature-container {
     width: 100%;
 }
@@ -254,6 +263,7 @@ input[type=submit]:hover {
     margin-right: 10%;
 }
 
+/* Media query for features */
 @media screen and (max-width: 910px) {
     .feature {
         display: block;
