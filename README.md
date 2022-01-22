@@ -132,9 +132,12 @@ On mobile (collapsed):
   - It is also designed to evoke images of a technology-driven future.
 
 On desktop:
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+
+![Header Image on Desktop](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/header-desktop.JPG)
 
 On mobile:
+
+![Header Image on Mobile](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/header-mobile.JPG)
 
 - __Highlighted Features on Home Page__
 
