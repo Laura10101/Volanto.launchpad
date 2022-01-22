@@ -236,13 +236,16 @@ On mobile:
 
 - __Submission confirmation pages__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - When users submit an application through the online form, or contact us through the contact page, they will want to know that their form submission was successful.
+ - The site therefore provides submission confirmation pages for both the contact and application forms.
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+Contact Confirmation page:
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
+![Contact Confirmation on Desktop](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/contact-confirmation-desktop.JPG)
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+Application Confirmation page:
+
+![Application Confirmation on Desktop](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/application-submission-desktop.JPG)
 
 ### Features Left to Implement
 
