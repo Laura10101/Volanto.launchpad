@@ -34,15 +34,23 @@ On Chrome:
 
 On Firefox:
 
-![Home Page Correctly Displays in Chrome](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/browser-testing/highlighted-features-firefox-large.png)
+![Home Page Correctly Displays in Firefox](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/browser-testing/highlighted-features-firefox-large.png)
 
 ### Testimonials
 
+- The following screenshots show that the testmonials correctly display across all browsers.
+
 On Microsoft Edge:
+
+![Testimonials Correctly Displays in Edge](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/browser-testing/testimonials-edge-large.png)
 
 On Chrome:
 
+![Testimonials Correctly Displays in Chrome](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/browser-testing/testimonials-chrome-large.png)
+
 On Firefox:
+
+![Testimonials Correctly Displays in Firefox](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/browser-testing/testimonials-firefox-large.png)
 
 ### Contact Form
 
