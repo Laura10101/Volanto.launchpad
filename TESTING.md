@@ -191,6 +191,52 @@ On Mobile:
 
 ## User Story Tests
 
+### Potential Applicant Goals
+
+**As a potential Launchpad applicant, I want to understand more about the Volanto Launchpad programme, so that I can understand how it might help me**
+
+Potential applicants can achieve this goal by visiting the Programme page as shown below:
+![Learning more about the Launchpad programme](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/programme-desktop.JPG)
+
+**As a potential Launchpad applicant, I want to understand what benefit previous mentees have gained from the programme, so that I can decide whether or not to apply**
+
+Potential applicants can achieve this goal by visiting the Testimonials page as shown below:
+![Learning about the benefit past mentees gained from the Launchpad programme](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/testimonials-desktop.JPG)
+
+**As a potential Launchpad applicant, I need to be able to contact Volanto, so that I can get answers if I have any further questions**
+
+Potential applicants can achieve this goal by submitting the Contact form as shown below:
+![Contacting Volanto with follow-up questions](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/contact-desktop.JPG)
+
+Users receive confirmation that they have successfully applied:
+![Confirmation of successful contact submission](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/contact-confirmation-desktop.JPG)
+
+**As a potential Launchpad applicant, I need to be able to easily navigate the site, so that I can quickly decide whether to apply**
+
+Potential applicants can achieve this goal using the accessible navigation bar as shown below:
+![Navigating the launchpad site](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/nav-desktop.JPG)
+
+They can also quickly find the most important information through the highlighted features on the home page:
+
+![Quickly finding information through CTAs](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/ctas-desktop.JPG)
+
+**As a potential Launchpad applicant, I need to be able to apply to the Launchpad scheme, if I wish to proceed
+**
+
+Potential applicants can achieve this goal by using the application form as shown below:
+![Learning more about the Launchpad programme](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/application-desktop.JPG)
+
+Users receive confirmation that they have successfully applied:
+![Confirmation of successful application](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/application-submission-desktop.JPG)
+
+### Existing Client Goals
+
+**As an existing Volanto client, I need to be able to gain a more indepth understanding of the Launchpad programme, so that I can better understand Volanto's brand values**
+
+**As an existing Volanto client, I need to be able to understand how Volanto has helped people in the past, so that I can better understand the impact Volanto is having**
+
+**As an existing Volanto client, I need to be able to contact the Launchpad team, so that I can follow up with any further questions**
+
 ## Bugs
 
 ### Fixed Bugs
