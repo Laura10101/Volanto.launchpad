@@ -192,10 +192,17 @@ On mobile:
 
 - __Application Form__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - Users who wish to benefit from the Volanto Launchpad programme will need to apply to the scheme.
+  - To make this easy for potential applicants, the site provides an online application form.
+  - All fields on the form are required to ensure the applicant can be properly contacted, and to encourage them to enter sufficient information to allow Volanto to make a fair decision on whether to accept them to the programme or not.
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+On desktop:
+
+![Application Form on Desktop](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/application-desktop.JPG)
+
+On mobile:
+
+![Application Form on Mobile](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/application-mobile.png)
 
 - __Testimonials Page__
 
