@@ -1,10 +1,71 @@
 # Volanto Launchpad
 
-Volanto Launchpad is a site that ...
+There is a tension in the tech world that has accelerated rapidly in recent times. As the world become more tech-led, the demand for tech skills has increased drastically and  businesses are struggling to find the skills they need.
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+At the same time, bootcamp and university graduates are struggling to secure their first role. Many are at the point of despair.  Graduates are told time and time again that they lack experience. It is not uncommon to see entry level roles being advertised as requiring 2-5 years experience.
 
-## Features 
+But each of these problems are each others' solutions. There is not a shortage of candidates for tech roles, but there is a gap in the experience level that new graduates have, and the experience level that businesses expect. Additionally, candidates rarely ever receive any meaningful, constructive feedback from unsuccessful job applications. This means they simply do not know what to do to improve their chances of success.
+
+After advertising four entry level roles and receiving more than 200 applications for each position, Volanto is on a mission to change this.
+
+Young people and career changers are at risk of becoming a generation whose skills are lost. When the industry is in such desperate need of talent, we cannot to let this happen.
+
+The Launchpad Scheme is to help people who are starting out in their technology careers, or looking to jump up the career ladder. The scheme pairs promising tech talent with an established tech professional who mentors them.
+
+This website provides potential applicants with an online route to apply to the scheme, and with information to help them decide whether the scheme is right for them.
+
+![Responsive Mockup](https://laura10101.github.io/volanto-launchpad/assets/img/volanto-launchpad-mockup.png)
+
+##Users 
+Users of this site will primarily be potential applicants to the Launchpad scheme, which may include:
+- People who are considering starting a career in tech.
+- People looking to change careers.
+- People looking to advance their tech careers.
+
+We may also have Volanto clients looking at the site in order to understand more about Volanto's corporate culture.
+
+Primarily, therefore, the site must cater to potential applicants, whilst also maintaining an appropriate brand.
+
+The application form is the call to action and must be easy to find and use.
+
+##User Stories
+
+###First time visitor goals
+
+As a First Time Visitor, I want to easily understand the main purpose of the site, learn more about the programme, its goals and how to apply.
+As a First Time Visitor, I want to be able to easily navigate throughout the site to find content and apply easily.
+As a First Time Visitor, I want to understand what other people have gained from their experiences on the programme, by looking at testimonials of previous candidates. 
+As a First Time Visitor, I want to look at the company’s social media presence to understand how well established and trusted they are. 
+
+### Returning Visitor Goals
+
+As a Returning Visitor, I want to find information about coding challenges.
+As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
+As a Returning Visitor, I want to find community links.
+
+### Frequent User Goals
+
+As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
+As a Frequent User, I want to check to see if there are any new blog posts.
+As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
+
+## UX
+
+Briefly explain your design here
+
+## Colour Scheme
+
+The colour scheme will be……TBC! Likely violet, pink and navy. Neon. These colours have been designed to be reminiscent of a tech future: inspiration has been drawn from the neon lights of Tokyo and ‘Do Androids Dream of Electric Sheep?’ - a world where technology reigns.
+
+The colours have also been designed to ensure that they are not sterotupically masculine. The pink and lilac, used in a neon fashion, are designed to appeal to both men and women, rather than cementing the tech gender gap further.
+
+## Typography
+
+The fonts used will be…………………..
+
+## Wireframes
+
+## Features
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
@@ -66,28 +127,6 @@ In addition, you may also use this section to discuss plans for additional featu
 
 - Another feature idea
 
-## Testing 
-
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
-
-### Validator Testing 
-
-- HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
-- CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
-
-### Unfixed Bugs
-
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
-
 ## Deployment
 
 The site was deployed to GitHub pages. The steps to deploy are as follows: 
@@ -107,40 +146,47 @@ Alternatively, if using Gitpod, you can click below to create your own workspace
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Laura10101/volanto-launchpad)
 
+## Testing 
 
-## Credits 
+For all testing, please refer to the [TESTING.md](TESTING.md) file.
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
+## Credits
 
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
+### Educational Resources
 
-### Content 
+The following educational and community resources were used during the implementation of this site:
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- W3 Schools
+- Stack Overflow
+- CSS Tricks
+- [HTML Living Standard](https://html.spec.whatwg.org/)
+
+Additionally, assistance was provided by my Code Institute tutor, and by the Code Institute Slack community.
+
+### Code
+
+Code libraries or snippets were used in whole or in part from the following sources:
+
+- [W3 Schools Responsive TopNav Example](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_topnav)
+- [W3 Schools How To - Glowing Text](https://www.w3schools.com/howto/howto_css_glowing_text.asp)
+- [CSS Tricks - Sticky Footer, Five Ways](https://css-tricks.com/couple-takes-sticky-footer/)
+
+### Content
+
+- The icons for the Home Page features section, in the Footer, and for the responsive hamburger menu were taken from [Font Awesome](https://fontawesome.com/)
+- I personally created all other content on the site specifically for the Volanto Launchpad project.
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+The following tools and sources were used to create the images on the site:
 
+- I created the Header image specifically for the site using Canva.
+- Testimonial portrait images were sourced from Snappa's stock images.
+- I also used Colorzilla's Ultimate CSS Gradient Generator to create the background for the image.
+- The glowing effect on links and buttons was adapted from an Instagram post by the [developers_community account](https://www.instagram.com/p/CXqjOWsARwC/?utm_medium=copy_link).
 
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
+## Acknowledgements
+I would like to thank the following people for their support in implementing this project:
 
-## Other General Project Advice
-
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work! 
-
-- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write  a Git Commit Message 
-  - Make sure to keep the messages in the imperative mood 
-
-- When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-  - For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept. 
-
-- Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-  - [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
-  - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
-  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
-
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process! 
+- My mentor, Tim Nelson, for his help and guidance throughout.
+- The Code Institute community on Slack for their helpful guidance.
