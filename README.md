@@ -206,13 +206,19 @@ On mobile:
 
 - __Testimonials Page__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - The testimonials page adds value for potential applicants by allowing them to see what benefit previous participants got from the Launchpad scheme.
+  - The page displays three testimonials, including the text of the testimonial as provided by the previous participant, and a photo of that participant.
+  - On desktop devices, the testimonials are laid out such that the text for the testimonial is next to the portrait of the person who provided the testimonial.
+  - On smaller devices, the testimonial text appears under the portrait.
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+On desktop:
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
+![Testimonials on Desktop](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/testimonials-desktop.JPG)
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+On mobile:
+
+![Testimonials on Mobile](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/testimonials-mobile.png)
+
 
 - __Contact Form__
 
