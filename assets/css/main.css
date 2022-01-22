@@ -178,7 +178,7 @@ input[type=submit]:hover {
     margin-right: 12px;
 }
 
-.programme-section {
+.content-section {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -188,9 +188,13 @@ input[type=submit]:hover {
 }
 
 @media screen and (max-width: 1050px) {
-    .programme-section {
+    .content-section {
         width: 66%;
     }
+}
+
+.form-confirmation {
+    text-align: center;
 }
 
 .fa-quote-left, .fa-quote-right {
