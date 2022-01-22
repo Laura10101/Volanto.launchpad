@@ -85,11 +85,7 @@ Several validation errors were identified during the development process, specif
 
 One warning was also found: the `<section>` containing the highlighted features on index.html contains no `<h2>-<h6>` tag. I opted to leave this unresolved as this was appropriate for the particular page.
 
-All other validation errors were resolved. I attempted to revalidate all pages following these changes. However, the W3C's validation service was down throughout the 22nd January 2022 so I was unable to confirm resolution through this service (see below).
-
-![The official W3C validator was down throughout 22nd January 2022](https://laura10101.github.io/volanto-launchpad/documentation/validation/official-validator-outage.png)
-
-I therefore used an alternative validation service to check my HTML as shown below.
+All other validation errors were resolved and the site was revalidated using the W3C official validator as shown below.
 
 index.html:
 
