@@ -137,16 +137,27 @@ On desktop:
 
 On mobile:
 
-![Header Image on Mobile](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/header-mobile.JPG)
+![Header Image on Mobile](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/header-mobile.PNG)
 
 - __Highlighted Features on Home Page__
 
-  - Blah
+  - The home page highlights three features of the website which will be most useful and informative for potential applicants.
+  - Calls to action are used to encourage the user to explore these highlighted features.
+  - Eye catching icons are also highlighted to encourage users to click on these.
+  - The signature glow effect is also shown when the user hovers over a call to action to indicate that it is a link.
+  - These features are responsive so are displayed horizontally on a large device, or vertically on a small device.
+
+The highlighted features are:
+- Discover the programme which links to the programme.html page;
+- Explore the impact which links to testimonials;
+- Apply to Launchpad which links to the application form.
 
 On desktop:
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Calls to Action on Desktop](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/ctas-desktop.JPG)
 
 On mobile:
+
+![Calls to Action on Mobile](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/ctas-mobile.PNG)
 
 - __Programme page__
 
