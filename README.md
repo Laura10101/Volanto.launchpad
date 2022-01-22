@@ -16,7 +16,7 @@ This website provides potential applicants with an online route to apply to the 
 
 ![Responsive Mockup](https://laura10101.github.io/volanto-launchpad/assets/img/volanto-launchpad-mockup.png)
 
-##Users 
+## Users 
 Users of this site will primarily be potential applicants to the Launchpad scheme, which may include:
 - People who are considering starting a career in tech.
 - People looking to change careers.
@@ -28,9 +28,9 @@ Primarily, therefore, the site must cater to potential applicants, whilst also m
 
 The application form is the call to action and must be easy to find and use.
 
-##User Stories
+## User Stories
 
-###First time visitor goals
+### First time visitor goals
 
 - As a First Time Visitor, I want to easily understand the main purpose of the site, learn more about the programme, its goals and how to apply.
 - As a First Time Visitor, I want to be able to easily navigate throughout the site to find content and apply easily.
