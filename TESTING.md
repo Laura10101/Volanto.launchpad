@@ -3,4 +3,6 @@
 ## Code Validation
 ## Responsiveness
 ## User Story Tests
-## Unfixed Bugs
+## Bugs
+### Fixed Bugs
+### Unfixed Bugs
