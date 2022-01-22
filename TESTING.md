@@ -208,7 +208,7 @@ Potential applicants can achieve this goal by visiting the Testimonials page as 
 Potential applicants can achieve this goal by submitting the Contact form as shown below:
 ![Contacting Volanto with follow-up questions](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/contact-desktop.JPG)
 
-Users receive confirmation that they have successfully applied:
+Users receive confirmation that they have successfully contacted Volanto:
 ![Confirmation of successful contact submission](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/contact-confirmation-desktop.JPG)
 
 **As a potential Launchpad applicant, I need to be able to easily navigate the site, so that I can quickly decide whether to apply**
@@ -233,9 +233,21 @@ Users receive confirmation that they have successfully applied:
 
 **As an existing Volanto client, I need to be able to gain a more indepth understanding of the Launchpad programme, so that I can better understand Volanto's brand values**
 
+Existing clients can achieve this goal by visiting the Programme page as shown below:
+![Learning more about the Launchpad programme](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/programme-desktop.JPG)
+
 **As an existing Volanto client, I need to be able to understand how Volanto has helped people in the past, so that I can better understand the impact Volanto is having**
 
+Existing clients can achieve this goal by visiting the Testimonials page as shown below:
+![Learning about the benefit past mentees gained from the Launchpad programme](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/testimonials-desktop.JPG)
+
 **As an existing Volanto client, I need to be able to contact the Launchpad team, so that I can follow up with any further questions**
+
+Existing clients can achieve this goal by submitting the Contact form as shown below:
+![Contacting Volanto with follow-up questions](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/contact-desktop.JPG)
+
+Users receive confirmation that they have successfully contacted Volanto:
+![Confirmation of successful contact submission](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/contact-confirmation-desktop.JPG)
 
 ## Bugs
 
