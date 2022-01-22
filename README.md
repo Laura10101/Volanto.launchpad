@@ -16,7 +16,7 @@ This website provides potential applicants with an online route to apply to the 
 
 ![Responsive Mockup](https://laura10101.github.io/volanto-launchpad/assets/img/volanto-launchpad-mockup.png)
 
-## Users 
+## Users
 Users of this site will primarily be potential applicants to the Launchpad scheme, which may include:
 - People who are considering starting a career in tech.
 - People looking to change careers.
