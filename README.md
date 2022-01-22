@@ -157,7 +157,23 @@ On desktop:
 
 On mobile:
 
-![Calls to Action on Mobile](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/ctas-mobile.PNG)
+![Calls to Action on Mobile](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/ctas-mobile.png)
+
+- __The Footer__ 
+
+  - The footer section includes links to the relevant social media sites for Volanto Launchpad. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - It also displays copyright information for the site.
+  - The footer is sticky so that it is always visible at the bottom of the page. Where the page is smaller than the screen, it will display at the bottom of the screen.
+
+On desktop:
+
+![Footer on Desktop](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/footer-desktop.JPG)
+
+On mobile:
+
+![Footer on Mobile](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/footer-mobile.png)
+
 
 - __Programme page__
 
@@ -165,13 +181,6 @@ On mobile:
   - This section will be updated as these times change to keep the user up to date. 
 
 ![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
-
-- __The Footer__ 
-
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
-
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
 
 - __Application Form__
 
