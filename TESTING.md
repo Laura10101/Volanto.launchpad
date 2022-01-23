@@ -229,7 +229,7 @@ Potential applicants can achieve this goal by using the application form as show
 
 Users receive confirmation that they have successfully applied:
 
-![Confirmation of successful application](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/application-submission-desktop.JPG)
+![Confirmation of successful application](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/application-confirmation-desktop.jpg)
 
 ### Existing Client Goals
 
