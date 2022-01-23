@@ -225,7 +225,7 @@ On mobile:
 
 On desktop:
 
-![Contact Form on Desktop](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/contact-desktop.JPG)
+![Contact Form on Desktop](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/contact-desktop.jpg)
 
 On mobile:
 
