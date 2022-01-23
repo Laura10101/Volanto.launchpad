@@ -195,7 +195,7 @@ On mobile:
 
 On desktop:
 
-![Application Form on Desktop](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/application-desktop.JPG)
+![Application Form on Desktop](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/apply-desktop.jpg)
 
 On mobile:
 
