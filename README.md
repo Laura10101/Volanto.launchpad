@@ -115,7 +115,7 @@ On desktop:
 
 On mobile (expanded):
 
-![Nav Bar - Expanded on Mobile](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/nav-mobile-expanded.PNG)
+![Nav Bar - Expanded on Mobile](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/nav-mobile-expanded.png)
 
 On mobile (collapsed):
 
