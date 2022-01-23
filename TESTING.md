@@ -225,7 +225,7 @@ They can also quickly find the most important information through the highlighte
 
 Potential applicants can achieve this goal by using the application form as shown below:
 
-![Learning more about the Launchpad programme](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/application-desktop.JPG)
+![Learning more about the Launchpad programme](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/apply-desktop.jpg)
 
 Users receive confirmation that they have successfully applied:
 
