@@ -133,7 +133,7 @@ On desktop:
 
 On mobile:
 
-![Header Image on Mobile](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/header-mobile.PNG)
+![Header Image on Mobile](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/header-mobile.png)
 
 - __Highlighted Features on Home Page__
 
