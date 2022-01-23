@@ -111,7 +111,7 @@ The wireframe for the contact page is shown below:
 
 On desktop:
 
-![Nav Bar - Desktop](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/nav-desktop.JPG)
+![Nav Bar - Desktop](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/nav-desktop.jpg)
 
 On mobile (expanded):
 
