@@ -60,7 +60,7 @@ I selected the following colours:
 
 The colour pallette is shown below:
 
-![Volanto Launchpad Colour Palette](https://laura10101.github.io/volanto-launchpad/documentation/design/colour-palette.JPG)
+![Volanto Launchpad Colour Palette](https://laura10101.github.io/volanto-launchpad/documentation/design/colours.jpg)
 
 I also used a glow function when hovering over buttons to tie in with the neon theme.
 
