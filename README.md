@@ -1,30 +1,32 @@
 # Volanto Launchpad
 
-There is a tension in the tech world that has accelerated rapidly in recent times. As the world become more tech-led, the demand for tech skills has increased drastically and  businesses are struggling to find the skills they need.
+There is a tension in the tech world that has accelerated rapidly in recent times. As the world becomes more tech-led, the demand for tech skills has increased drastically. Businesses are now struggling to hire the right skillsets.
 
-At the same time, bootcamp and university graduates are struggling to secure their first role. Many are at the point of despair.  Graduates are told time and time again that they lack experience. It is not uncommon to see entry level roles being advertised as requiring 2-5 years experience.
+At the same time, bootcamp and university graduates are struggling to secure their first roles. Graduates are often told that they lack experience and it is not uncommon to see entry level roles being advertised as requiring 2-5 years' experience.
 
-But each of these problems are each others' solutions. There is not a shortage of candidates for tech roles, but there is a gap in the experience level that new graduates have, and the experience level that businesses expect. Additionally, candidates rarely ever receive any meaningful, constructive feedback from unsuccessful job applications. This means they simply do not know what to do to improve their chances of success.
+Each of these problems are each others' solutions. There is not a shortage of candidates for tech roles, but there is a gap in the experience level that new graduates have, and the experience level that businesses want and expect. 
 
-After advertising four entry level roles and receiving more than 200 applications for each position, Volanto is on a mission to change this.
+This is only exacerbated by the fact that candidates rarely ever receive meaningful, constructive feedback from unsuccessful applications. This means they simply do not know what to do to improve their chances of success.
 
-Young people and career changers are at risk of becoming a generation whose skills are lost. When the industry is in such desperate need of talent, we cannot to let this happen.
+Volanto is on a mission to change this.
 
-The Launchpad Scheme is to help people who are starting out in their technology careers, or looking to jump up the career ladder. The scheme pairs promising tech talent with an established tech professional who mentors them.
+Young people and career changers are at risk of becoming a generation whose skills are lost. When the industry is in such desperate need of talent, we cannot let this happen.
+
+The Launchpad Scheme is designed to help people who are starting out in their technology careers, or looking to jump up the career ladder. The scheme pairs promising tech talent with an established tech professional who mentors them.
 
 This website provides potential applicants with an online route to apply to the scheme, and with information to help them decide whether the scheme is right for them.
 
 ![Responsive Mockup](https://laura10101.github.io/volanto-launchpad/assets/img/volanto-launchpad-mockup.png)
 
 ## Users
-Users of this site will primarily be potential applicants to the Launchpad scheme, which may include:
+Users of this site will primarily be potential applicants to the Launchpad programme, which may include:
 - People who are considering starting a career in tech.
 - People looking to change careers.
 - People looking to advance their tech careers.
 
-We may also have Volanto clients looking at the site in order to understand more about Volanto's corporate culture.
+We may also have Volanto clients looking at the site in order to understand more about Volanto's culture and brand values.
 
-Primarily, therefore, the site must cater to potential applicants, whilst also maintaining an appropriate brand.
+Primarily, therefore, the site must cater to potential applicants, whilst also maintaining an appropriate brand that reflects Volanto's values.
 
 The application form is the call to action and must be easy to find and use.
 
@@ -32,25 +34,23 @@ The application form is the call to action and must be easy to find and use.
 
 ### Potential Applicant Goals
 
-- As a potential Launchpad applicant, I want to understand more about the Volanto Launchpad programme, so that I can understand how it might help me
+- As a potential Launchpad applicant, I want to understand more about the Volanto Launchpad programme, so that I can understand how it might help me.
 - As a potential Launchpad applicant, I want to understand what benefit previous mentees have gained from the programme, so that I can decide whether or not to apply
-- As a potential Launchpad applicant, I need to be able to contact Volanto, so that I can get answers if I have any further questions
-- As a potential Launchpad applicant, I need to be able to easily navigate the site, so that I can quickly decide whether to apply
-- As a potential Launchpad applicant, I need to be able to apply to the Launchpad scheme, if I wish to proceed
+- As a potential Launchpad applicant, I need to be able to contact Volanto, so that I can get answers if I have any further questions.
+- As a potential Launchpad applicant, I need to be able to easily navigate the site, so that I can quickly decide whether to apply.
+- As a potential Launchpad applicant, I need to be able to apply to the Launchpad programme, if I wish to proceed.
 
 ### Existing Client Goals
 
-- As an existing Volanto client, I need to be able to gain a more indepth understanding of the Launchpad programme, so that I can better understand Volanto's brand values
-- As an existing Volanto client, I need to be able to understand how Volanto has helped people in the past, so that I can better understand the impact Volanto is having
-- As an existing Volanto client, I need to be able to contact the Launchpad team, so that I can follow up with any further questions
+- As an existing Volanto client, I need to be able to gain a more indepth understanding of the Launchpad programme, so that I can better understand Volanto's brand values.
+- As an existing Volanto client, I need to be able to understand how Volanto has helped people in the past, so that I can better understand the impact Volanto is having.
+- As an existing Volanto client, I need to be able to contact the Launchpad team, so that I can follow up with any further questions.
 
 ## UX
 
 ### Colour Scheme
 
 The colour scheme was chosen to reflect the brand values of Volanto and the Launchpad Programme. Modern, futuristic, and unusual. Reminiscent of the neon lights of Tokyo and the film Bladerunner: worlds where technology reign.
-
-The Launchpad Programme is about closing the tech skills gap, and one of its aims is to encourage more people from under represented groups into technology. Women are a hugely under represented group, so it was important that the site appealed to a ...
 
 I selected the following colours: 
 - Navy blue: #100B44
@@ -66,9 +66,9 @@ I also used a glow function when hovering over buttons to tie in with the neon t
 
 ### Typography
 
-The font used is Nunito: Helvetica: Sans-serif.  Nunito was imported frmo Google fonts. 
+The preferred font is Nunito, with Helvetica as the web-safe font and Sans-serif as a fallback font. Nunito was imported from Google fonts.
 
-Nunito was chosen because it is easy to read but also has a modern feel, which sits well with the brand guidelines.
+Nunito was chosen because it is easy to read but also has a modern feel, which sits well with the brand values.
 
 ### Imagery
 Images are designed to reflect the theme of a future reigned by tech. They are bold, vivid, full of energy. 
@@ -99,8 +99,6 @@ The wireframe for the contact page is shown below:
 ![Contact Page Wireframe](https://laura10101.github.io/volanto-launchpad/documentation/wireframes/contact.jpg)
 
 ## Features
-
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 ### Existing Features
 
@@ -156,8 +154,8 @@ On mobile:
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Volanto Launchpad. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer section includes links to the relevant social media sites for Volanto Launchpad. The links will open to a new tab to allow easy navigation for the user.
+  - The footer is valuable to the user as it displays the relevant social media platforms that they can use to stay connected to Volanto.
   - It also displays copyright information for the site.
   - The footer is sticky so that it is always visible at the bottom of the page. Where the page is smaller than the screen, it will display at the bottom of the screen.
 
@@ -187,7 +185,7 @@ On mobile:
 
 - __Application Form__
 
-  - Users who wish to benefit from the Volanto Launchpad programme will need to apply to the scheme.
+  - Users who wish to benefit from the Volanto Launchpad programme will need to apply to the programme.
   - To make this easy for potential applicants, the site provides an online application form.
   - All fields on the form are required to ensure the applicant can be properly contacted, and to encourage them to enter sufficient information to allow Volanto to make a fair decision on whether to accept them to the programme or not.
 
@@ -201,7 +199,7 @@ On mobile:
 
 - __Testimonials Page__
 
-  - The testimonials page adds value for potential applicants by allowing them to see what benefit previous participants got from the Launchpad scheme.
+  - The testimonials page adds value for potential applicants by allowing them to see what benefit previous participants got from the Launchpad programme.
   - The page displays three testimonials, including the text of the testimonial as provided by the previous participant, and a photo of that participant.
   - On desktop devices, the testimonials are laid out such that the text for the testimonial is next to the portrait of the person who provided the testimonial.
   - On smaller devices, the testimonial text appears under the portrait.
@@ -231,7 +229,7 @@ On mobile:
 
 - __Submission confirmation pages__
 
-  - When users submit an application through the online form, or contact us through the contact page, they will want to know that their form submission was successful.
+ - When users submit an application through the online form, or contact us through the contact page, they will want to know that their form submission was successful.
  - The site therefore provides submission confirmation pages for both the contact and application forms.
 
 Contact Confirmation page:
@@ -246,12 +244,12 @@ Application Confirmation page:
 
 In the future, the following additional features would add value to the site for potential applicants:
 
-- Design a custom logo and add it to the nav bar
-- Provide a gallery of testimonial videos
-- A blog that would include articles about how to get into tech, information about the latest technology, and tech courses 
-- Tech quizzes allowing people to test their knowledge
-- A forum for people to ask questions and get peer support 
-- An online chat service to allow potential applicants to ask questions more easily
+- Design a custom logo and add it to the nav bar.
+- Provide a gallery of testimonial videos.
+- A blog that would include articles about how to get into tech, information about the latest technology, and tech courses.
+- Tech quizzes allowing people to test their knowledge.
+- A forum for people to ask questions and get peer support.
+- An online chat service to allow potential applicants to ask questions more easily.
 
 ## Testing 
 
