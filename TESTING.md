@@ -143,7 +143,7 @@ On Desktop:
 
 On Mobile (Expanded):
 
-![Navigation bar when expanded on mobile devices](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/nav-mobile-expanded.PNG)
+![Navigation bar when expanded on mobile devices](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/nav-mobile-expanded.png)
 
 On Mobile (Collapsed):
 
