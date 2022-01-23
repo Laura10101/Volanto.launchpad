@@ -150,7 +150,7 @@ The highlighted features are:
 
 On desktop:
 
-![Calls to Action on Desktop](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/ctas-desktop.JPG)
+![Calls to Action on Desktop](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/ctas-desktop.jpg)
 
 On mobile:
 
