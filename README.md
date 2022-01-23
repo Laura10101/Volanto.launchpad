@@ -110,12 +110,15 @@ The wireframe for the contact page is shown below:
   - When the site is viewed on a smaller device (mobile or tablet), the navigation links are displayed in an expandable/colapsible hamburger menu.
 
 On desktop:
+
 ![Nav Bar - Desktop](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/nav-desktop.JPG)
 
 On mobile (expanded):
+
 ![Nav Bar - Expanded on Mobile](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/nav-mobile-expanded.PNG)
 
 On mobile (collapsed):
+
 ![Nav Bar - Collapsed on Mobile](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/nav-mobile-collapsed.PNG)
 
 - __Header Image__
@@ -146,6 +149,7 @@ The highlighted features are:
 - Apply to Launchpad which links to the application form.
 
 On desktop:
+
 ![Calls to Action on Desktop](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/ctas-desktop.JPG)
 
 On mobile:
