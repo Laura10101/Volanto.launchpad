@@ -253,7 +253,7 @@ Existing clients can achieve this goal by submitting the Contact form as shown b
 
 Users receive confirmation that they have successfully contacted Volanto:
 
-![Confirmation of successful contact submission](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/contact-confirmation-desktop.JPG)
+![Confirmation of successful contact submission](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/contact-confirmation-desktop.jpg)
 
 ## Bugs
 
