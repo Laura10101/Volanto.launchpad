@@ -156,7 +156,7 @@ On Mobile (Collapsed):
 
 On Desktop:
 
-![Highlighted features on home page on desktop device](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/ctas-desktop.JPG)
+![Highlighted features on home page on desktop device](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/ctas-desktop.jpg)
 
 On Mobile:
 
@@ -205,11 +205,11 @@ Potential applicants can achieve this goal by visiting the Testimonials page as 
 
 Potential applicants can achieve this goal by submitting the Contact form as shown below:
 
-![Contacting Volanto with follow-up questions](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/contact-desktop.JPG)
+![Contacting Volanto with follow-up questions](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/contact-desktop.jpg)
 
 Users receive confirmation that they have successfully contacted Volanto:
 
-![Confirmation of successful contact submission](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/contact-confirmation-desktop.JPG)
+![Confirmation of successful contact submission](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/contact-confirmation-desktop.jpg)
 
 **As a potential Launchpad applicant, I need to be able to easily navigate the site, so that I can quickly decide whether to apply**
 
@@ -249,7 +249,7 @@ Existing clients can achieve this goal by visiting the Testimonials page as show
 
 Existing clients can achieve this goal by submitting the Contact form as shown below:
 
-![Contacting Volanto with follow-up questions](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/contact-desktop.JPG)
+![Contacting Volanto with follow-up questions](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/contact-desktop.jpg)
 
 Users receive confirmation that they have successfully contacted Volanto:
 
