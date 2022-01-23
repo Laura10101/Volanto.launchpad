@@ -210,7 +210,7 @@ On mobile:
 
 On desktop:
 
-![Testimonials on Desktop](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/testimonials-desktop.JPG)
+![Testimonials on Desktop](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/testimonials-desktop.jpg)
 
 On mobile:
 
