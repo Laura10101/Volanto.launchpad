@@ -119,7 +119,7 @@ On mobile (expanded):
 
 On mobile (collapsed):
 
-![Nav Bar - Collapsed on Mobile](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/nav-mobile-collapsed.PNG)
+![Nav Bar - Collapsed on Mobile](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/nav-mobile-collapsed.png)
 
 - __Header Image__
 
