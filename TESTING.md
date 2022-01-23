@@ -179,7 +179,7 @@ On Mobile:
 
 On Desktop:
 
-![Contact form on desktop device](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/contact-desktop.JPG)
+![Contact form on desktop device](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/contact-desktop.jpg)
 
 On Mobile:
 
