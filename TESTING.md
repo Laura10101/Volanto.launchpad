@@ -193,7 +193,7 @@ On Mobile:
 
 Potential applicants can achieve this goal by visiting the Programme page as shown below:
 
-![Learning more about the Launchpad programme](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/programme-desktop.JPG)
+![Learning more about the Launchpad programme](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/programme-desktop.jpg)
 
 **As a potential Launchpad applicant, I want to understand what benefit previous mentees have gained from the programme, so that I can decide whether or not to apply**
 
@@ -237,7 +237,7 @@ Users receive confirmation that they have successfully applied:
 
 Existing clients can achieve this goal by visiting the Programme page as shown below:
 
-![Learning more about the Launchpad programme](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/programme-desktop.JPG)
+![Learning more about the Launchpad programme](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/programme-desktop.jpg)
 
 **As an existing Volanto client, I need to be able to understand how Volanto has helped people in the past, so that I can better understand the impact Volanto is having**
 
