@@ -147,7 +147,7 @@ On Mobile (Expanded):
 
 On Mobile (Collapsed):
 
-![Navigation bar when collapsed on mobile devices](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/nav-mobile-collapsed.PNG)
+![Navigation bar when collapsed on mobile devices](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/nav-mobile-collapsed.png)
 
 
 ### Highlighted Features
