@@ -219,7 +219,7 @@ Potential applicants can achieve this goal using the accessible navigation bar a
 
 They can also quickly find the most important information through the highlighted features on the home page:
 
-![Quickly finding information through CTAs](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/ctas-desktop.JPG)
+![Quickly finding information through CTAs](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/ctas-desktop.jpg)
 
 **As a potential Launchpad applicant, I need to be able to apply to the Launchpad scheme, if I wish to proceed**
 
