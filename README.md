@@ -181,7 +181,7 @@ On mobile:
 
 On desktop:
 
-![Programme Page on Desktop](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/programme-desktop.JPG)
+![Programme Page on Desktop](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/programme-desktop.jpg)
 
 On mobile:
 
