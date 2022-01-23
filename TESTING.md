@@ -139,7 +139,7 @@ The CSS was validated through the W3C's jigsaw validator and no errors were foun
 
 On Desktop:
 
-![Navigation bar on a desktop](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/nav-desktop.JPG)
+![Navigation bar on a desktop](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/nav-desktop.jpg)
 
 On Mobile (Expanded):
 
@@ -215,7 +215,7 @@ Users receive confirmation that they have successfully contacted Volanto:
 
 Potential applicants can achieve this goal using the accessible navigation bar as shown below:
 
-![Navigating the launchpad site](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/nav-desktop.JPG)
+![Navigating the launchpad site](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/nav-desktop.jpg)
 
 They can also quickly find the most important information through the highlighted features on the home page:
 
