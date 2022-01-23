@@ -165,7 +165,7 @@ On mobile:
 
 On desktop:
 
-![Footer on Desktop](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/footer-desktop.JPG)
+![Footer on Desktop](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/footer-desktop.jpg)
 
 On mobile:
 
