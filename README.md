@@ -238,7 +238,7 @@ On mobile:
 
 Contact Confirmation page:
 
-![Contact Confirmation on Desktop](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/contact-confirmation-desktop.JPG)
+![Contact Confirmation on Desktop](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/contact-confirmation-desktop.jpg)
 
 Application Confirmation page:
 
