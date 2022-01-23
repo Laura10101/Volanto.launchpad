@@ -168,7 +168,7 @@ On Mobile:
 
 On Desktop:
 
-![Testimonials on desktop device](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/testimonials-desktop.JPG)
+![Testimonials on desktop device](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/testimonials-desktop.jpg)
 
 On Mobile:
 
@@ -199,7 +199,7 @@ Potential applicants can achieve this goal by visiting the Programme page as sho
 
 Potential applicants can achieve this goal by visiting the Testimonials page as shown below:
 
-![Learning about the benefit past mentees gained from the Launchpad programme](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/testimonials-desktop.JPG)
+![Learning about the benefit past mentees gained from the Launchpad programme](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/testimonials-desktop.jpg)
 
 **As a potential Launchpad applicant, I need to be able to contact Volanto, so that I can get answers if I have any further questions**
 
@@ -243,7 +243,7 @@ Existing clients can achieve this goal by visiting the Programme page as shown b
 
 Existing clients can achieve this goal by visiting the Testimonials page as shown below:
 
-![Learning about the benefit past mentees gained from the Launchpad programme](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/testimonials-desktop.JPG)
+![Learning about the benefit past mentees gained from the Launchpad programme](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/testimonials-desktop.jpg)
 
 **As an existing Volanto client, I need to be able to contact the Launchpad team, so that I can follow up with any further questions**
 
