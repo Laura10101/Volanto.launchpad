@@ -242,7 +242,7 @@ Contact Confirmation page:
 
 Application Confirmation page:
 
-![Application Confirmation on Desktop](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/application-submission-desktop.JPG)
+![Application Confirmation on Desktop](https://laura10101.github.io/volanto-launchpad/documentation/screenshots/features/application-confirmation-desktop.JPG)
 
 ### Features Left to Implement
 
